@@ -41,7 +41,7 @@
     "prosemirror-model": ">=1.0.0",
     "prosemirror-state": ">=1.0.0",
     "react-dock": "^0.2.4",
-    "react-json-tree": "^0.11.2",
+    "react-json-tree": "^0.16.0",
     "unstated": "^2.1.1"
   },
   "peerDependencies": {
